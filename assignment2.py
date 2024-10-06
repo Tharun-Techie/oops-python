@@ -8,9 +8,12 @@ class Student:
         self.Marks_eng = eng
         
 st1 = Student("Rajesh",56,84,69,100,52)
-print(st1.Name)
-print(st1.Marks_eng)
-print(st1.Marks_mat)
-print(st1.Marks_sci)
-print(st1.Marks_soc)
-print(st1.Marks_tam)
+st2 = Student("Rajesh",56,84,69,100,52)
+st3 = Student("Rajesh",56,84,69,100,52)
+st4 = Student("Rajesh",56,84,69,100,52)
+st5 = Student("Rajesh",56,84,69,100,52)
+st6 = Student("Rajesh",56,84,69,100,52)
+st7 = Student("Rajesh",56,84,69,100,52)
+st8 = Student("Rajesh",56,84,69,100,52)
+st9= Student("Rajesh",56,84,69,100,52)
+st10 = Student("Rajesh",56,84,69,100,52)
